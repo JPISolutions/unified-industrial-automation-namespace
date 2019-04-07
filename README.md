@@ -6,5 +6,7 @@ The UIAN project will give industrial programmers a place where they can collabo
 # Contributing to the Project
 The project is open to everyone. Please 'clone the repo' and make contributions. 
 
+We have setup a Slack workspace. Access slack at https://unified-namespace.slack.com. If you cannot join without an invitation please email Dustin Symes at dustin@jpisolutions.ca to get an invite. 
+
 # License
 The project is setup with the MIT license for flexibility and ease of use. This means that you can use the information and code samples here in your commercial projects. 
