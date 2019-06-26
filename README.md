@@ -3,6 +3,10 @@ Welcome to UIAN - the Unified Industrial Automation Namespace Project. There are
 
 The UIAN project will give industrial programmers a place where they can collaborate on what basic object structures will look like and what the context tags should be named. The end result will be some simple object notation that can be used in PLC programming projects, in data mapping (using MQTT/Sparkplug B or HTTP REST/JSON), and in HMI projects (Ignition, ClearSCADA, etc.). 
 
+## Recommendations
+
+1. Level 5 and deeper tag names should be written in PascalCase. 
+
 # Contributing to the Project
 The project is open to everyone. Please 'clone the repo' and make contributions. 
 

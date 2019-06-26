@@ -1,12 +1,10 @@
-Sample Namespace that can be adopted for oil and gas, water/waste water, manufacturing, etc. 
+# Unified Namespace 
 
 It is important that the names and categories used to organize the first few levels of the namepace be driven by your business needs. If the categories do not apply to the business implementing the namespace then they will have a hard time adopting the data model into their business processes because that will make data hard to find! 
 
 The overall structure should not become too deep. The goal is to enable users and other people to be able to find useful information. Forcing the structure to be at most 10 layers deep will assist people in finding what they need. 
 
 It is helpful to note that this is the rough structure to assist with organization and to help us speak the same data language. If you need to add other objects to the structure make your particular project work (displays, graphics, etc.) please do. This is meant to be the base, other things can be layered on top. 
-
-# Unified Namespace
 
 * Level 0 - Area
   * Level 1 - Sub Area
@@ -76,4 +74,4 @@ This level is for specific sub-equipment, meters, etc. that provide source data.
 
 ## Level 6-10
 
-TODO: Need to fill out this description.  
+See other namespace documents for examples of structures that fit at this level. 
