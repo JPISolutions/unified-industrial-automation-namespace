@@ -9,8 +9,6 @@ The configuration tag names were taken from the Realflo object in ClearSCADA.
 - [ ] Get input from community about historical volume tags. Should we be using Today (TDay), Yesterday (YDay), Current Day (CDay), or Previous Day (PDay)?
 - [ ] Make a decision about abbreviating the tag names. 
 
-Place at Level 
-
 * Meter
   * Configuration
     * Meter configuration tags go here...
