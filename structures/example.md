@@ -9,3 +9,16 @@ I'm not totally sure how everyone wants to notate the standard, but I am sure we
   * FullScale
   * CurrentTime (may be renamed to LastUpdatedTime
   
+# Mermaid Test Diagram
+
+```mermaid
+ classDiagram
+  class ObjectA{
+   +String name
+   +function()
+  }
+  class ObjectB{
+   +String color
+   +repaint()
+  } 
+```
