@@ -7,9 +7,9 @@
 ```mermaid
     classDiagram
         class Analog
-            Real PV
-            Real EUMax
-            Real EUMin
-            String Units
-            String Description
+            +Real PV
+            +Real EUMax
+            +Real EUMin
+            +String Units
+            +String Description
 ```
