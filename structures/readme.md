@@ -1,10 +1,18 @@
-# Unified Namespace 
+# Unified Industrial Automation Namespace 
 
-It is important that the names and categories used to organize the first few levels of the namepace be driven by your business needs. If the categories do not apply to the business implementing the namespace then they will have a hard time adopting the data model into their business processes because that will make data hard to find! 
+[TOC]
 
-The overall structure should not become too deep. The goal is to enable users and other people to be able to find useful information. Forcing the structure to be at most 10 layers deep will assist people in finding what they need. 
+## Introduction 
+
+A unified namespace is a semantic hierachy of the current status of a business. This allows people working in the business to be able to quickly find information and make decisions on things as they are happening realtime in the business. 
+
+It is important that the names and semantics used to organize the first few levels of the hierachy of the namepace be driven by the particular needs of the corporation. If the categories do not apply to the business then people will have a hard time finding things and adopting the data model into their business processes. We recommend checking out ISA95 Part 2 for ideas on how to keep things organized. 
+
+The overall structure of the neames should not become too deep. Avoid unnecessary folders in the path! The goal is to enable users and other people to be able to find useful information. Forcing the structure to be at most 10 layers deep will assist people in finding what they need. 
 
 It is helpful to note that this is the rough structure to assist with organization and to help us speak the same data language. If you need to add other objects to the structure make your particular project work (displays, graphics, etc.) please do. This is meant to be the base, other things can be layered on top. 
+
+## UIAN Hierachy
 
 * Level 0 - Area
   * Level 1 - Sub Area
@@ -32,7 +40,7 @@ It is helpful to note that this is the rough structure to assist with organizati
 
 ## Level 0
 
-This is a logical organizational unit. It helps if it represents a business unit, a country, a producing pool or basin or some other large encompassing category. 
+This is a logical organizational unit. It helps if it represents a business unit, a country, a producing pool or basin or some other large encompassing category. ISA95 dictates this is the "Enterprise" level. 
 
 Oil and gas applications typically benefit from having this level represent the business unit, basin or other large geographic division (North/South) at this level. 
 
