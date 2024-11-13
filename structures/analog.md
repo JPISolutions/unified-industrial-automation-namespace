@@ -6,10 +6,11 @@
 
 ```mermaid
     classDiagram
-        class Analog
+        class Analog{
             +Real PV
             +Real EUMax
             +Real EUMin
             +String Units
             +String Description
+        }
 ```
